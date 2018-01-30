@@ -1,3 +1,3 @@
 # web-log
 
-[-->](https://github.com/qu-reeds/web-log/wiki)
+qu ⠶ reed ⠶ log ⠶ [web](https://github.com/qu-reeds/web-log/wiki)
